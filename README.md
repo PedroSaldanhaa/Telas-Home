@@ -42,7 +42,7 @@ Menu "Mega-Menu": Um menu expansível que oferece uma navegação mais detalhada
 
 Clone o repositório:
 Bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git clone https://github.com/PedroSaldanhaa/Telas-Home.git
 Abra o arquivo: Abra o arquivo index.html no seu navegador de preferência.
 
 ### PedroSaldanhaa - Desenvolvedor Front-end 🇧🇷
